@@ -2,7 +2,7 @@ import PersonalCard from "./Components/PersonalCard";
 
 function App() {
   const person = {
-    name: "Pesho",
+    name: "Peshkoo",
     age: 28,
     job: "Teacher",
     car: "Toyota",
